@@ -1,0 +1,628 @@
+@media (max-width:1460px) {
+    .hero_section .search_trips_nav_bar {
+        padding: 16px;
+        flex-wrap: wrap;
+    }
+}
+
+
+
+@media (max-width:1260px) {
+    .hero_section .search_trips_nav_bar .inputs {
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width:1200px) {
+    .hero_section .linear .container_hero_section .hero_nav_bar {
+        margin-left: 10%;
+    }
+
+    .hero_section .search_trips_nav_bar {
+        border-radius: 70px;
+        padding-top: 20px;
+    }
+
+    .hero_section .search_trips_nav_bar .search_trips_btn {
+        width: 30%;
+    }
+
+}
+
+
+@media (max-width:1020px) {
+    .hero_section .linear .container_hero_section .content_hero_section h1 {
+        font-weight: 700;
+    }
+
+
+}
+
+
+@media (max-width:992px) {
+    header .container {
+        width: 95%;
+    }
+
+    .hero_section .linear .container_hero_section {
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section {
+        width: 100%;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar {
+        margin-left: 0;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav .padding {
+        padding-top: 0;
+
+    }
+}
+
+
+@media (max-width:820px) {
+    header .container ol {
+        display: none;
+    }
+
+    header .container svg {
+        display: block;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px) {
+    header .container .btns_header_nav .book_now {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+
+    header .container .btns_header_nav .signin {
+        padding: 6px 12px;
+        font-size: 14px;
+
+    }
+
+    header .container {
+        padding: 8px;
+    }
+
+    .hero_section {
+        height: 120vh;
+    }
+
+    .hero_section .search_trips_nav_bar {
+        display: flex;
+        margin-top: 90px;
+    }
+
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 {
+        font-size: 40px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section p {
+        font-size: 15px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 p {
+        font-size: 40px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section span {
+        font-size: 12px;
+        padding: 6px 14px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section .my_booking_btu {
+        font-size: 14px;
+        padding: 10px 24px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section .explore_trips_btn {
+        font-size: 14px;
+        padding: 10px 24px;
+    }
+
+
+    .main_section .popular_routes_section {
+        padding: 320px 50px 100px 50px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card {
+        width: calc((100% - 20px) / 2);
+    }
+
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .btns_main_section {
+        justify-content: space-between;
+
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .btns_main_section .view_details_but {
+        padding: 10px 24px;
+        font-size: 14px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .btns_main_section .book_now_btn {
+        padding: 10px 24px;
+        font-size: 14px;
+    }
+
+    .main_section .popular_routes_section .header_content_main_section h2 {
+        font-size: 40px;
+    }
+
+    .main_section .popular_routes_section .header_content_main_section p {
+        font-size: 15px;
+    }
+
+    .traveling_side .container .head h2 {
+        font-size: 40px;
+    }
+
+    .traveling_side .container .head p {
+        font-size: 15px;
+    }
+
+    .traveling_side {
+        height: 810px;
+    }
+
+
+    .traveling_side .container {
+        width: 90%;
+    }
+
+    .traveling_side .container .cards {
+        flex-wrap: wrap;
+    }
+
+    .traveling_side .container .cards .card {
+        width: calc((100% - 20px) / 2);
+
+    }
+
+    .Featured .containere .cards .card_img {
+        width: calc((100% - 20px) / 2);
+
+    }
+
+    .Featured .containere .head h2 {
+        font-size: 40px;
+    }
+
+    .Featured .containere .head h5 {
+        font-size: 15px;
+    }
+
+    .Featured .artical {
+        height: 856.462158px;
+        flex-direction: column;
+    }
+
+    .Featured .artical .img {
+        height: 70%;
+        width: 100%;
+        background-size: cover;
+        background-position: 0px -40px;
+
+
+
+    }
+
+    .Featured .artical .content {
+        margin: 20px;
+    }
+
+    .Featured .artical .content h2 {
+        font-size: 35px;
+    }
+
+    .Featured .artical .content p {
+        font-size: 15px;
+    }
+
+    .Featured .traveler_stories .cards_traveler_stories .card {
+        width: calc((100% - 20px) / 2);
+
+    }
+
+    .Featured .traveler_stories .head_traveler_stories h2 {
+        font-size: 40px;
+    }
+
+    .Featured .traveler_stories .head_traveler_stories h5 {
+        font-size: 15px;
+    }
+
+
+    footer {
+        height: 197vh;
+    }
+
+    footer .container {
+        padding: 30px 20px;
+    }
+
+    footer .container .lists {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 40px;
+    }
+
+    footer .container .lists div {
+
+        width: 100%;
+    }
+
+    footer .footer {
+        height: 5%;
+        padding: 15px;
+    }
+
+    footer .footer ol {
+        margin-right: 9%;
+    }
+
+    footer .container .lists .quick_links_nav {
+        width: calc((100% - 120px)/ 3);
+    }
+
+    footer .container .lists .top_destinations {
+        width: calc((100% - 120px)/ 3);
+    }
+
+    footer .container .lists .contact_us {
+        width: calc((100% - 120px)/ 3);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:460px) {
+    header .container {
+        justify-content: space-evenly;
+    }
+
+    header .container .btns_header_nav .book_now {
+        display: none;
+    }
+}
+
+
+
+
+@media (max-width:380px) {
+    header .container {
+        padding: 16px 0;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 {
+        font-size: 30px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 p {
+        font-size: 30px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section p {
+        /* font-size: 10px; */
+        width: 100%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:320px) {
+
+    .hero_section {
+        height: 93vh;
+
+    }
+
+    .hero_section .linear .container_hero_section {
+        width: 92%;
+    }
+
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 {
+        font-size: 25px;
+        /* line-height: 40px; */
+        gap: 0px;
+        margin-bottom: 6px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section h1 p {
+        font-size: 25px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section span {
+        margin-bottom: 0;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section p {
+        font-size: 10px;
+        line-height: 23px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section span {
+        font-size: 9px;
+        padding: 2px 5px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section span p {
+        width: 6px;
+        height: 6px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section {
+        justify-content: space-evenly;
+        gap: 0;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section .explore_trips_btn {
+        padding: 4px 16px;
+        font-size: 11px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section .my_booking_btu {
+        padding: 4px 16px;
+        font-size: 11px;
+    }
+
+    .hero_section .linear .container_hero_section .content_hero_section .btns_hero_section .my_booking_btu svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav {
+        padding: 10px;
+        gap: 3px;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav .text_div {
+        width: 86px;
+        gap: 10px;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav .text_div .text h3 {
+        font-size: 14px;
+    }
+
+    .hero_section .linear .container_hero_section .hero_nav_bar .nav .text_div .text p {
+        font-size: 10px;
+    }
+
+    .hero_section .search_trips_nav_bar .inputs div {
+        width: 200px;
+        height: auto;
+
+    }
+
+    .hero_section .search_trips_nav_bar .inputs div input {
+        font-size: 14px;
+    }
+
+    .hero_section .search_trips_nav_bar .search_trips_btn {
+        width: 60%;
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+
+
+
+    .main_section .popular_routes_section .header_content_main_section h2 {
+        font-size: 20px;
+    }
+
+    .main_section .popular_routes_section .header_content_main_section p {
+        font-size: 10px;
+        width: 307px;
+
+
+    }
+
+    .main_section .popular_routes_section .header_content_main_section span {
+        width: 40%;
+        font-size: 10px;
+        padding: 6px 13px;
+    }
+
+    .main_section .popular_routes_section {
+        padding: 320px 15px 100px 15px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card {
+        width: 100%;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .content_card_text .text_content .price p {
+        font-size: 22px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .content_card_text .content span {
+        font-size: 13px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .content_card_text .content p {
+        padding: 6px;
+        font-size: 10px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .btns_main_section .book_now_btn {
+        padding: 9px 18px;
+    }
+
+    .main_section .popular_routes_section .cards_main_section .card .content_card .btns_main_section .view_details_but {
+        padding: 9px 18px;
+    }
+
+    .main_section .popular_routes_section button {
+        padding: 8px 17px;
+    }
+
+    .main_section .popular_routes_section button a {
+        font-size: 14px;
+    }
+
+    .traveling_side {
+        height: 245vh;
+
+    }
+
+    .traveling_side .container .head h2 {
+        font-size: 26px;
+    }
+
+    .traveling_side .container .head p {
+        width: 314px;
+        font-size: 12px;
+    }
+
+    .traveling_side .container .cards .card {
+        width: 100%;
+    }
+
+    .Featured .artical {
+        height: 660px;
+    }
+
+    .Featured .containere .head h2 {
+        font-size: 30px;
+    }
+
+    .Featured .containere .head h2 p {
+        font-size: 30px;
+    }
+
+    .Featured .containere .head h5 {
+        font-size: 11px;
+        width: 320px;
+    }
+
+    .Featured .containere .head span {
+        font-size: 10px;
+        padding: 4px 12px;
+    }
+
+    .Featured .containere .cards .card_img {
+        width: 100%;
+    }
+
+    .Featured .artical .content h2 {
+        font-size: 22px;
+    }
+
+    .Featured .artical .img {
+        height: 55%;
+
+    }
+
+    .Featured .artical .content {
+        height: 65%;
+        margin: 10px;
+    }
+
+
+    .Featured .traveler_stories .head_traveler_stories h2 {
+        font-size: 29px;
+    }
+
+    .Featured .traveler_stories .head_traveler_stories h2 p {
+        font-size: 29px;
+    }
+
+    .Featured .traveler_stories .cards_traveler_stories .card {
+        width: 100%;
+    }
+
+    footer {
+        height: 204vh;
+    }
+
+    footer .container {
+        padding: 20px 0;
+    }
+
+    footer .footer {
+        padding: 0;
+        justify-content: space-evenly;
+    }
+
+    footer .footer span {
+        font-size: 6px;
+    }
+
+    footer .footer ol {
+        gap: 10px;
+        justify-content: space-between;
+        margin-right: 0;
+    }
+
+    footer .footer ol a {
+        font-size: 7px;
+    }
+
+    footer .container .lists .quick_links_nav {
+        width: 50%;
+    }
+
+    footer .container .lists ol {
+        flex-direction: row;
+
+    }
+
+    footer .container .lists .top_destinations {
+        width: 50%;
+    }
+
+    footer .container .lists .contact_us {
+        width: 100%;
+    }
+
+
+}

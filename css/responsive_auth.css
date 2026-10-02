@@ -1,0 +1,110 @@
+@media (max-width:768px) {
+    main {
+        flex-direction: column;
+    }
+
+    main .img {
+        width: 85%;
+        height: 100%;
+
+    }
+
+    main .container {
+        height: 35%;
+        padding: 0;
+        width: 95%;
+
+
+    }
+
+    main .container .content {
+        padding: 0;
+        align-items: center;
+    }
+
+    main .container .content .form_login {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+
+@media (max-width:320px) {
+    main .img {
+        width: 94%;
+
+    }
+
+    main .container .content .head .text_content h1 {
+        font-size: 30px;
+    }
+
+    main .container .content .head .text_content p {
+        font-size: 12px;
+    }
+
+    main .container .content .form_login form .lables label {
+        font-size: 14px;
+    }
+
+    main .container .content .form_login form .lables label input {
+        padding: 12px;
+    }
+
+    main .container .content .form_login form .lables .email input {
+        padding: 12px;
+    }
+
+    main .container .content .form_login form .lables .pass .password input {
+        padding: 12px;
+    }
+
+    main .container .content .form_login form .lables .email {
+        font-size: 14px;
+    }
+
+    main .container .content .form_login form .lables .pass .password {
+        font-size: 14px;
+    }
+
+    main .container .content .form_login form .lables .pass .radio label {
+        font-size: 12px;
+    }
+
+    main .container .content .form_login form .lables .pass .radio a {
+        font-size: 12px;
+    }
+
+
+    main .container .content .form_login form button {
+        font-size: 14px;
+        padding: 12px;
+    }
+
+
+    main .container .content .form_login .another_continue .titel {
+        font-size: 12px;
+    }
+
+
+    main .container .content .form_login .another_continue .btns_to_login button {
+        padding: 6px;
+        font-size: 12px;
+    }
+
+    main .container .content .form_login .create_account span {
+        font-size: 10px;
+    }
+
+    main .container .content .form_login .create_account span a {
+        font-size: 10px;
+    }
+
+    main .container .content .form_login form .lables .inpts input {
+        width: 52px;
+        height: 52px;
+    }
+
+
+
+}
